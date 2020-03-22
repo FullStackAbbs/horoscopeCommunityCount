@@ -32,5 +32,5 @@ https://optimistic-tereshkova-0abf82.netlify.com
 
 ## Usage
 
-1. run `npm run savage`
+1. run ` ./folderDir/ node server.js`
 2. Navigate to `localhost:3000`
